@@ -1,1 +1,7 @@
-body{background-color:tomato;color:beige}
+body {
+    background-color: tomato;
+    color: beige;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none
+}
